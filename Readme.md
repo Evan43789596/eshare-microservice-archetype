@@ -1,4 +1,5 @@
 # 微服务脚手架项目架构
+```text
 eshare
     |--contract 契约层
     |    |--java
@@ -37,3 +38,4 @@ eshare
     |--CHANGELOG.md 更新日志
     |--Jenkinsfile 自动构建脚本
     |--README.md 项目说明
+```
